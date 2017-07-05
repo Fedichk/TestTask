@@ -4,7 +4,6 @@
 .idea/workspace.xml
 grails-app/conf/hibernate/
 grails-app/controllers/
-grails-app/domain/
 grails-app/migrations/
 grails-app/services/
 grails-app/taglib/
@@ -26,3 +25,4 @@ web-app/css/
 web-app/images/
 web-app/js/
 hibernate/
+!/grails-app/domain/
