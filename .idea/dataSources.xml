@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="TestTask dev" uuid="0092eff9-139a-47cd-8fc9-eed2b352a26d">
+      <driver-ref>c8a7e5f7-50b4-4c45-9a6d-78cc75d093b5</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>$PROJECT_DIR$/grails-app/conf/DataSource.groovy</remarks>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost/grails_test</jdbc-url>
+      <driver-properties>
+        <property name="autoReconnect" value="true" />
+        <property name="zeroDateTimeBehavior" value="convertToNull" />
+        <property name="tinyInt1isBit" value="false" />
+        <property name="characterEncoding" value="utf8" />
+        <property name="characterSetResults" value="utf8" />
+        <property name="yearIsDateType" value="false" />
+      </driver-properties>
+      <libraries>
+        <library>
+          <url>file://$MAVEN_REPOSITORY$/mysql/mysql-connector-java/5.1.29/mysql-connector-java-5.1.29.jar</url>
+        </library>
+      </libraries>
+    </data-source>
+  </component>
+</project>
